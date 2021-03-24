@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Za swoje mocne strony uważasz:",
+        "answers": ["nastawienie na sukces i towarzyskość", "żywość i odważność", "spokojność i analityczność", "cierpliwość i uporządkowaność" ]
+    },
+    {
+        "question": "Wybierz słowo, które budzi w tobie najbardziej negatywne skojarzenia:",
+        "answers": ["zastój", "głód", "samotność", "konflikt"]
+    },
+    {
+        "question": "Jakiemu sportu oddasz preferncję:",
+        "answers": ["bieg", "siatkówka/piłka nona", "pływanie", "szachy"]
+    },
+    {
+        "question": "Kiedy ktoś zdradza ci swój sekret, wolisz:",
+        "answers": ["zdradzisz mu swój", "podzielić się z tym, z kim uważasz za potrzebne", "chronić go jak swój skarb", "podziękować i przy moliwości poznać szczegóły"]
+    },
+    {
+        "question": "W zespole jesteś:",
+        "answers": ["inspiratorem", "autorytetem", "perfekcjonistą", "mediatorem"]
+    },
+    {
+        "question": "Swój styl możesz opisać jako:",
+        "answers": ["unikalny, czarujący ", "jaskrawy, trendowy", "artystyczny, nastrojowy", "prosty, komfortowy"]
+    }
+]
+
